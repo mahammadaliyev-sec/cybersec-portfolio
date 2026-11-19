@@ -23,4 +23,5 @@ Nmap • Burp Suite • Wireshark • Metasploit • Linux • Python
 
 ## Contact
 
+- LinkedIn: [Mahammad Aliyev](https://www.linkedin.com/in/mahammad-aliyevv)
 - GitHub: [mahammadaliyev-sec](https://github.com/mahammadaliyev-sec)
