@@ -17,7 +17,8 @@ Nmap • Burp Suite • Wireshark • Metasploit • Linux • Python
 
 | Platform | Title | Category | Difficulty |
 |----------|-------|----------|------------|
-
+| Labs | [CTF-Sentyabr: Full Compromise of RickAI](Labs/ctf-sentyabr-rickai-full-compromise.md) | Web / PrivEsc | Medium |
+| Labs | [NotTheHard: IDOR to Root via NFS](Labs/notthehard-idor-to-root-via-nfs.md) | Web (IDOR) / PrivEsc | Medium |
 
 ## Contact
 
