@@ -19,6 +19,7 @@ Nmap • Burp Suite • Wireshark • Metasploit • Linux • Python
 |----------|-------|----------|------------|
 | Labs | [CTF-Sentyabr: Full Compromise of RickAI](Labs/ctf-sentyabr-rickai-full-compromise.md) | Web / PrivEsc | Medium |
 | Labs | [NotTheHard: IDOR to Root via NFS](Labs/notthehard-idor-to-root-via-nfs.md) | Web (IDOR) / PrivEsc | Medium |
+| Labs | [Shenron: Joomla RCE to Root via Credential Reuse](Labs/shenron-joomla-rce-to-root.md) | Web (CMS) / PrivEsc | Medium-Hard |
 
 ## Contact
 
